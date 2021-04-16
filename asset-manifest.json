@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yakidan/static/css/main.979eb0b5.chunk.css",
-    "main.js": "/yakidan/static/js/main.c9385b22.chunk.js",
-    "main.js.map": "/yakidan/static/js/main.c9385b22.chunk.js.map",
+    "main.js": "/yakidan/static/js/main.2f6f5828.chunk.js",
+    "main.js.map": "/yakidan/static/js/main.2f6f5828.chunk.js.map",
     "runtime-main.js": "/yakidan/static/js/runtime-main.12037a10.js",
     "runtime-main.js.map": "/yakidan/static/js/runtime-main.12037a10.js.map",
     "static/js/2.06660535.chunk.js": "/yakidan/static/js/2.06660535.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.12037a10.js",
     "static/js/2.06660535.chunk.js",
     "static/css/main.979eb0b5.chunk.css",
-    "static/js/main.c9385b22.chunk.js"
+    "static/js/main.2f6f5828.chunk.js"
   ]
 }
